@@ -1,4 +1,4 @@
-##Hiberation Scripts
+##Hibernation Scripts
 
 These scripts will need to ```Run As Administrator```
 
