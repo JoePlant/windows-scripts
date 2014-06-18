@@ -12,7 +12,7 @@ You will notice that the ```Internet Calendar Subscriptions.pst``` file will gro
  * Add back Internet calendars
 
 ###Explore AppData.cmd
-Script to open the directory where the file is stored.
+[Script](Explore%20AppData.cmd) to open the directory where the file is stored.
 
 ```batch
 explorer.exe "%LOCALAPPDATA%\Microsoft\Outlook\"
