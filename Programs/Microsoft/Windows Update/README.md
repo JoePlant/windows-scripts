@@ -9,7 +9,7 @@ To free up some space on my C: I run the following script to delete the windows 
 
 
 ###Delete the Windows Update directory
-[Script](Delete Windows Update Files.cmd) to stop the service, delete and start again.
+[Script](Delete%20Windows%20Update%20Files.cmd) to stop the service, delete and start again.
 
 ```batch
 net stop wuauserv
